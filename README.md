@@ -1,4 +1,4 @@
-# galentine-card[index.html.html](https://github.com/user-attachments/files/25064758/index.html.html)
+# galentine-card[index.html.html](https://github.com/user-attachments/files/25064758/index.html)
 <!DOCTYPE html>
 <html>
 <head>
